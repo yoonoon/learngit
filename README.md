@@ -11,6 +11,6 @@
 - 打网球
 - 听歌
 - 打游戏
+
 #头像
--
-http://img5.imgtn.bdimg.com/it/u=1832141803,3432144836&fm=26&gp=0.jpg
+-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUpxFQgWyjRZx1u-V9gDtECnNbstFvllIViLZ8w5wCTnWctZOZYw
