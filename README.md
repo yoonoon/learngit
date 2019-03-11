@@ -12,5 +12,4 @@
 - 听歌
 - 打游戏
 
-#头像
--https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUpxFQgWyjRZx1u-V9gDtECnNbstFvllIViLZ8w5wCTnWctZOZYw
+![头像](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUpxFQgWyjRZx1u-V9gDtECnNbstFvllIViLZ8w5wCTnWctZOZYw)
